@@ -1,2 +1,7 @@
-# demo-odontologia-nogoya
-Demo web para Odontología Nogoyá — diseñada por eterlab.
+# Odontología Nogoyá
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
